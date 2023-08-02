@@ -1,0 +1,191 @@
+[
+    {
+      "course": "Complete React Developer in 2023",
+      "provider": "Udemy",
+      "discount_percentage": 75,
+      "original_price": 200,
+      "deal_price": 50,
+      "link": "https://www.udemy.com/react-developer-course",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"
+    },
+    {
+      "course": "Mastering Notion for Productivity",
+      "provider": "Coursera",
+      "discount_percentage": 50,
+      "original_price": 100,
+      "deal_price": 50,
+      "link": "https://www.coursera.org/notion-productivity",
+      "logo": "https://swingsearch.com/wp-content/uploads/2019/10/coursera-logo-square-1.jpg"
+    },
+    {
+      "course": "MongoDB University: M101JS - MongoDB ",
+      "provider": "MongoDB University",
+      "discount_percentage": 90,
+      "original_price": 99,
+      "deal_price": 9.9,
+      "link": "https://university.mongodb.com/courses/M101JS",
+      "logo": "https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp"
+    },
+    {
+      "course": "The Complete JavaScript Course 2023: Build Real Projects!",
+      "provider": "Pluralsight",
+      "discount_percentage": 40,
+      "original_price": 150,
+      "deal_price": 90,
+      "link": "https://www.pluralsight.com/courses/javascript-build-real-projects",
+      "logo": "https://pluralsight.imgix.net/author/lg/1708f64b-8969-4de8-ae00-9c7b732c5fb9.jpg?w=200"
+    },
+    {
+      "course": "Advanced React and Redux",
+      "provider": "Codecademy",
+      "discount_percentage": 60,
+      "original_price": 120,
+      "deal_price": 48,
+      "link": "https://www.codecademy.com/courses/advanced-react-and-redux",
+      "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/gw9rnyrhkkljgerhki1l"
+    },
+    {
+      "course": "Notion for Beginners: A Comprehensive Guide",
+      "provider": "Skillshare",
+      "discount_percentage": 25,
+      "original_price": 50,
+      "deal_price": 37.5,
+      "link": "https://www.skillshare.com/courses/notion-for-beginners",
+      "logo": "https://cdn.dribbble.com/users/2297109/screenshots/9533253/media/c6471718e8a0d13cbc6e6b3dde163a6a.png"
+    },
+    {
+      "course": "The Complete MongoDB Developer Course",
+      "provider": "LinkedIn Learning",
+      "discount_percentage": 70,
+      "original_price": 80,
+      "deal_price": 24,
+      "link": "https://www.linkedin.com/learning/mongodb-developer-course",
+      "logo": "https://www.richlandlibrary.com/sites/default/files/styles/maximum/public/2021-03/LinkedIn-Learning.png.webp?itok=wZUFBOXT"
+    },
+    {
+      "course": "React Front To Back",
+      "provider": "Traversy Media",
+      "discount_percentage": 80,
+      "original_price": 60,
+      "deal_price": 12,
+      "link": "https://www.traversymedia.com/courses/react-front-to-back",
+      "logo": "https://yt3.googleusercontent.com/ytc/AOPolaT_7mZQjCdmaa3h1bJ-jUspCCfvL_1MNLRWYP-L3A=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "course": "Notion for Project Management",
+      "provider": "LinkedIn Learning",
+      "discount_percentage": 40,
+      "original_price": 70,
+      "deal_price": 42,
+      "link": "https://www.linkedin.com/learning/notion-for-project-management",
+      "logo": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/notion.png"
+    },
+    {
+      "course": "MongoDB Essentials",
+      "provider": "Pluralsight",
+      "discount_percentage": 35,
+      "original_price": 110,
+      "deal_price": 71.5,
+      "link": "https://www.pluralsight.com/courses/mongodb-essentials",
+      "logo": "https://pluralsight.imgix.net/author/lg/1708f64b-8969-4de8-ae00-9c7b732c5fb9.jpg?w=200"
+    },
+    {
+      "course": "React - The Complete Guide (incl. Hooks, React Router, Redux)",
+      "provider": "Udemy",
+      "discount_percentage": 85,
+      "original_price": 150,
+      "deal_price": 22.5,
+      "link": "https://www.udemy.com/react-the-complete-guide",
+      "logo": "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"
+    },
+    {
+      "course": "Mastering Advanced Notion Features",
+      "provider": "Skillshare",
+      "discount_percentage": 30,
+      "original_price": 40,
+      "deal_price": 28,
+      "link": "https://www.skillshare.com/courses/mastering-advanced-notion-features",
+      "logo": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/notion.png"
+    },
+    {
+      "course": "MongoDB - The Complete Developer's Guide",
+      "provider": "Udemy",
+      "discount_percentage": 70,
+      "original_price": 100,
+      "deal_price": 30,
+      "link": "https://www.udemy.com/mongodb-the-complete-developers-guide",
+      "logo": "https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp"
+    },
+    {
+      "course": "React Native - The Practical Guide",
+      "provider": "Academind",
+      "discount_percentage": 50,
+      "original_price": 90,
+      "deal_price": 45,
+      "link": "https://pro.academind.com/p/react-native-the-practical-guide",
+      "logo": "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"
+    },
+    {
+      "course": "Notion for Personal Productivity",
+      "provider": "Udacity",
+      "discount_percentage": 20,
+      "original_price": 80,
+      "deal_price": 64,
+      "link": "https://www.udacity.com/courses/notion-for-personal-productivity",
+      "logo": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/notion.png"
+    },
+    {
+      "course": "Full-Stack Web Development with React and Node.js",
+      "provider": "edX",
+      "discount_percentage": 60,
+      "original_price": 120,
+      "deal_price": 48,
+      "link": "https://www.edx.org/react-and-nodejs-full-stack-web-development",
+      "logo": "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"
+    },
+    {
+      "course": "Advanced MongoDB: Scaling and Administration",
+      "provider": "Pluralsight",
+      "discount_percentage": 40,
+      "original_price": 100,
+      "deal_price": 60,
+      "link": "https://www.pluralsight.com/courses/mongodb-advanced-scaling-and-administration",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"
+    },
+    {
+      "course": "React.js Fundamentals",
+      "provider": "Scrimba",
+      "discount_percentage": 25,
+      "original_price": 40,
+      "deal_price": 30,
+      "link": "https://scrimba.com/learn/learnreact",
+      "logo": "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"
+    },
+    {
+      "course": "Notion for Project Collaboration",
+      "provider": "Coursera",
+      "discount_percentage": 50,
+      "original_price": 60,
+      "deal_price": 30,
+      "link": "https://www.coursera.org/notion-project-collaboration",
+      "logo": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/notion.png"
+    },
+    {
+      "course": "MongoDB and Python: Quick Start",
+      "provider": "DataCamp",
+      "discount_percentage": 35,
+      "original_price": 75,
+      "deal_price": 48.75,
+      "link": "https://www.datacamp.com/courses/mongodb-and-python-quick-start",
+      "logo": "https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp"
+    },
+    {
+      "course": "React: From Beginner to Advanced",
+      "provider": "Frontend Masters",
+      "discount_percentage": 50,
+      "original_price": 100,
+      "deal_price": 50,
+      "link": "https://frontendmasters",
+      "logo": "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"
+    }
+]
